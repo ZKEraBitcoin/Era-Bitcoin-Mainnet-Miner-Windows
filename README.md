@@ -37,7 +37,7 @@ Also must fill in account and private key in 0xMineableTokenMiner.conf file
   - Replace the value with your own mining Ethereum address Private key (64 characters long including, case-sensitive).
 
 3c) minutesBetweenMints=
-  - If omitted, it will default to 1 minute between minutes.
+  - If omitted, it will default to 5 minute between minutes.
   - Replace the value with how long inbetween mintes you would like in minutes.  Ex. One Mint every 120 minutes
 
 3d) BlocksPerMint=
