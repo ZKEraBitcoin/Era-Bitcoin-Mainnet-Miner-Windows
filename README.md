@@ -13,7 +13,7 @@ AMD APP SDK v3.0.130.135 (OpenCL) can be downloaded from https://drive.google.co
 # SOLO MODE User must have Ethereum on ZK Sync Era Account
 Also must fill in account and private key in EraBitcoinMiner.conf file
 
-### How to start SOLO mining using EraBitcoin Miner
+### How to start SOLO mining using Era Bitcoin Miner
 
 0) Prequisites :
 
