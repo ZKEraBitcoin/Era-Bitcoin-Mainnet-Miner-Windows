@@ -10,8 +10,8 @@ CUDA 9.2 requires a minimum nVidia driver version of 396 [https://www.nvidia.com
 
 AMD APP SDK v3.0.130.135 (OpenCL) can be downloaded from https://drive.google.com/file/d/1P5jqRGbWRW1l5vxlm8MqaQRBKpUNUSyf/view?usp=sharing
 
-# SOLO MODE User must have Ethereum on Arbitrum Account
-Also must fill in account and private key in 0xMineableTokenMiner.conf file
+# SOLO MODE User must have Ethereum on ZK Sync Era Account
+Also must fill in account and private key in EraBitcoinMiner.conf file
 
 ### How to start SOLO mining using EraBitcoin Miner
 
@@ -24,7 +24,7 @@ Also must fill in account and private key in 0xMineableTokenMiner.conf file
 
 0b) Nvidia driver, and/or AMD driver.
 
-1) Open EraBitcoin.conf file
+1) Open EraBitcoinMiner.conf file
 
 2) Below are the following arguments that may/need to be changed :
 
@@ -48,7 +48,7 @@ Also must fill in account and private key in 0xMineableTokenMiner.conf file
   - If omitted, it is set to my Alchemy account.
   - Replace the value with your web3api as you desire.
 
-3) Save and run '0xMineableTokenMiner.bat file' in this directory.
+3) Save and run 'aEraBitcoinMiner.bat file' in this directory.
 
 ### Notes
 
