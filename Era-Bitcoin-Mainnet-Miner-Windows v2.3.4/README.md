@@ -62,7 +62,7 @@ Thanks for trying out this miner!
 Runs on Windows x64.
 
 LICENSE
-ABASMiner is licensed under the Apache License, Version 2.0 (the "License");
+EraBitcoinMiner is licensed under the Apache License, Version 2.0 (the "License");
 Libraries are included in the Software under the following license terms:
 - libkeccak-tiny https://github.com/coruus/keccak-tiny/
 - Nethereum https://github.com/Nethereum/Nethereum/blob/master/LICENSE.md
@@ -71,7 +71,7 @@ Libraries are included in the Software under the following license terms:
 - Bouncy Castle https://www.bouncycastle.org/licence.html
 
 
-Usage: ABASminer [OPTIONS]
+Usage: EraBitcoinMiner [OPTIONS]
 
 Options:
 
